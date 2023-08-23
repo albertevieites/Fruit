@@ -16,6 +16,9 @@ jupyter = "^1.0.0"
 openpyxl = "^3.1.2"
 
 
+[tool.poetry.group.dev.dependencies]
+klib = "^1.1.2"
+
 [build-system]
 requires = ["poetry-core"]
 build-backend = "poetry.core.masonry.api"
