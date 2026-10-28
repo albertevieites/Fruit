@@ -18,9 +18,9 @@ openpyxl = "^3.1.0"
 ipykernel = "^6.31.0"
 statsmodels = "^0.14.6"
 xgboost = "^2.1.4"
-notebook = "^7.6.0"
-pillow = "^12.3.0"
-jupyterlab = "^4.6.2"
+notebook = "^7.6.3"
+pillow = "^13.0.0"
+jupyterlab = "^4.6.4"
 # tensorflow = "^2.14.0"  # Temporalmente comentado debido a problemas de compatibilidad con Python 3.12
 
 
